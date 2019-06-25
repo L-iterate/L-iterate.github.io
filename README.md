@@ -1,6 +1,6 @@
-# ->The L-iterate Blog<-
+# The L-iterate Blog
 
-## ->Structured content for the independent learner<-
+## Structured content for the independent learner
 
 ## Recipes
 
